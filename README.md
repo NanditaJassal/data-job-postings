@@ -27,4 +27,6 @@ String processing and JSON_TABLE() to analyze skills
 Dataset
 The dataset contains job posting information, including job titles, seniority levels, locations, work arrangements, salary ranges, companies, and required skills.
 
-Find the Tableau interactive dashboard here.- https://public.tableau.com/views/JobMarketAnalysis_17927100646370/JobPostingsbytitle?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Find the Tableau interactive dashboard here.- 
+
+https://public.tableau.com/views/JobMarketAnalysis_17927100646370/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
