@@ -30,3 +30,5 @@ The dataset contains job posting information, including job titles, seniority le
 Find the Tableau interactive dashboard here.- 
 
 https://public.tableau.com/views/JobMarketAnalysis_17927100646370/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/88806fa2-c2ed-418e-aa75-5877c456eb76" />
